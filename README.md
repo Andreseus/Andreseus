@@ -1,6 +1,5 @@
 -  Hello, I’m Andreseus
 -  I’m interested in Game Development
--  I’m currently learning Python,GML
 - 😄 Pronouns: he/him 
 
 <!---
